@@ -1,0 +1,16 @@
+#Debug-Node
+nodemon --inspect server.js
+chrome://inspect
+
+
+#Debug-ReactNative
+iOS click dd
+iOS click on error in simulator and go to error in vscode
+npm install -g react-devtools
+npm start
+react-devtools
+iOS open devtools and show inspect 
+iOS open debug in chorme
+
+
+
